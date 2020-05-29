@@ -1,1 +1,1 @@
-[object Object]
+{"coord":{"lon":-2.24,"lat":53.48},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"base":"stations","main":{"temp":292.14,"feels_like":290.3,"temp_min":290.93,"temp_max":293.71,"pressure":1035,"humidity":55},"visibility":10000,"wind":{"speed":2.6},"clouds":{"all":1},"dt":1590660833,"sys":{"type":1,"id":1379,"country":"GB","sunrise":1590637829,"sunset":1590697346},"timezone":3600,"id":2643123,"name":"Manchester","cod":200}
